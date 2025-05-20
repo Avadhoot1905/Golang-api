@@ -9,7 +9,7 @@ This repository contains a series of simple, incremental API projects developed 
 * Using environment variables and `.env` files
 * Writing basic unit tests
 
-## 🚧 What I’m Learning
+##  What I’m Learning
 
 * [x] HTTP server basics
 * [x] Routing and path parameters
@@ -20,7 +20,7 @@ This repository contains a series of simple, incremental API projects developed 
 * [ ] Testing APIs
 * [ ] Dockerizing a Go API
 
-## 📦 Getting Started
+## Getting Started
 
 1. Clone the repository:
 
@@ -37,7 +37,7 @@ This repository contains a series of simple, incremental API projects developed 
 
 3. Use a tool like Postman or cURL to test the endpoints.
 
-## 🧠 Inspiration
+## Inspiration
 
 This project is inspired by:
 
